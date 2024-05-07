@@ -6,7 +6,7 @@
 - 🌱 I’m interested in unity, c# and programing.      
 - 👀 I’m looking to collaborate on Game Jams.                                                           
 - ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).
-- 📫 You Can reach me at [my discord here](https://www.discordapp.com/users/853959508833730570) and [my itch.io here]([itch.io/cheader](https://cheader.itch.io/)).               
+- 📫 You Can reach me at [my discord here](https://discordapp.com/users/853959508833730570) and [my itch.io here]([https://itch.io/cheader](https://cheader.itch.io/)).               
 *********************************************************************
 ### Skills 
 - C#

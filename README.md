@@ -3,11 +3,11 @@
 #### Short Summary
 *********************************************************************
 - 👋 I’m @cheaderthecoder.                                       
-- 👀 I’m interested in unity, c# and programing.         
-- 🌱 I’m currently learning html css js.                                         
+- 👀 I’m interested in unity, c# and programing.                                                  
 - 💞️ I’m looking to collaborate on Game Jams.                       
 - 📫 You Can reach me at [my discord here](discordapp.com/users/853959508833730570) and [my itch.io here]([itch.io/cheader](https://cheader.itch.io/)).                                                    
-- ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).                                           
+- ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).
+- 🌱 I’m currently still learning.                                         
 *********************************************************************
 ### Skills 
 - C#

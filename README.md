@@ -4,8 +4,8 @@
 *********************************************************************
 - 👋 I’m @cheaderthecoder.                                       
 - 🌱 I’m currently still learning.
-- 👀 I’m interested in unity, c# and programing.        
-- 💞️ I’m looking to collaborate on Game Jams.                                                                    
+- 💞️ I’m looking to collaborate on Game Jams.             
+- 👀 I’m interested in unity, c# and programing.                                                               
 - ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).
 - 📫 You Can reach me at [my discord here](discordapp.com/users/853959508833730570) and [my itch.io here]([itch.io/cheader](https://cheader.itch.io/)).               
 *********************************************************************

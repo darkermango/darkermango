@@ -6,9 +6,9 @@
 - 👀 I’m interested in unity, c# and programing.         
 - 🌱 I’m currently learning html css js.                                         
 - 💞️ I’m looking to collaborate on Game Jams.                       
-- 📫 You Can reach me at discord: mango1o1.    
-- 😄 Pronouns: he/him.                                                   
-- ⚡ Fun fact: i mad a discord bot inspiard by https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/Program.cs.                                              
+- 📫 You Can reach me at discord: mango1o1.                                                     
+- ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).
+- 😄 Pronouns: he/him.                                                
 *********************************************************************
 ### Skills 
 - C#

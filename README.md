@@ -3,7 +3,6 @@
 #### Short Summary
 *********************************************************************
 - 👋 I’m @cheaderthecoder.                                       
-- 🌱 I’m currently still learning.
 - 👀 I’m interested in unity, c# and programing.      
 - 💞️ I’m looking to collaborate on Game Jams.                                                           
 - ⚡ Fun fact: i mad a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/blob/master/TrustyBot/).

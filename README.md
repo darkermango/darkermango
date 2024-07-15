@@ -22,6 +22,8 @@
 - [Obsidian Text Color Plugin](https://github.com/cheaderthecoder/obsidian-plugin-textcolor) is a [Obsidian](https://obsidian.md/) plugin
   I made to Change the color of The Text Typed By The User with Nice UI.
 
+ #### [Obsidian link](https://github.com/cheaderthecoder/obsidian-link)
+ - [Obsidian link](https://github.com/cheaderthecoder/obsidian-link) is a simple github pages website that allows you to open obsidian from your browser   
 
 <!---
 cheaderthecoder/cheaderthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,15 +13,11 @@
 - Game Development
 - Web Development
 ---
-## Some of MyWork
+## Some of My Work
  #### [ChronoCraft](https://github.com/cheaderthecoder/cc) 
 - [ChronoCraft](https://github.com/cheaderthecoder/cc) is a top down rpg game made in unity for the [Clover Jam 6](https://itch.io/jam/clover-jam-6) in 14 Days, you can play ChronoCraft in
   [browser](https://cheaderthecoder.github.io/cc/) or download it at [itch.io](https://itch.io/jam/clover-jam-6/rate/2628338).
-
- #### [Obsidian Text Color Plugin](https://github.com/cheaderthecoder/obsidian-plugin-textcolor) 
-- [Obsidian Text Color Plugin](https://github.com/cheaderthecoder/obsidian-plugin-textcolor) is a [Obsidian](https://obsidian.md/) plugin
-  I made to Change the color of The Text Typed By The User with Nice UI.
-
+  
  #### [Obsidian link](https://github.com/cheaderthecoder/obsidian-link)
  - [Obsidian link](https://github.com/cheaderthecoder/obsidian-link) is a simple github pages website that allows you to open obsidian from your browser   
 

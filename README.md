@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Cheaderthecoder</h1>
-<h3 align="center">A passionate game developer</h3>
+<h3 align="center">Jack of 0 trade's master of none.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder" alt="cheaderthecoder" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>

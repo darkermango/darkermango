@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Cheaderthecoder</h1>
 <h3 align="center">Jack of 0 trade's master of none.</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder" alt="cheaderthecoder" /></a> </p>
+<p align="center"> <a href="https://github.com/cheaderthecoder/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="cheaderthecoder" /></a> </p>
 
 # 💻 Tech Stack
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

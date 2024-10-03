@@ -1,6 +1,14 @@
 
 <h1 align="center">Hi There 👋, I'm Cheaderthecoder</h1>
-<p align="center"> <a href="https://github.com/cheaderthecoder"><img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="cheaderthecoder" /></a> </p>
+<h3>
+
+</h3>
+
+<p align="center"> 
+  <a href="https://github.com/cheaderthecoder">
+        <img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&&row=3&column=3&theme=onedark&title=-Followers,-Reviews" alt="Trophys">
+  </a>
+</p>
 
 # 💻 Tech Stack
 <div class="styles__Wrapper-sc-6dg9xf-1 doLdew">

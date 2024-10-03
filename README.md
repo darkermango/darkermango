@@ -1,11 +1,43 @@
 
-<h1 align="center">Hi 👋, I'm Cheaderthecoder</h1>
-<h3 align="center">Jack of 0 trade's master of none.</h3>
+<h1 align="center">Hi There 👋, I'm Cheaderthecoder</h1>
 <p align="center"> <a href="https://github.com/cheaderthecoder"><img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="cheaderthecoder" /></a> </p>
 
 # 💻 Tech Stack
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<div class="styles__Wrapper-sc-6dg9xf-1 doLdew">
+<div spacing="12" class="styles__Container-sc-1ih1sb6-0 eKJxnF">
+
+<img height="40" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="40" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img height="40" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="40" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="40" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+<br>
+
+<img height="40" alt="nodejs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="40" alt="express logo" src="https://skillicons.dev/icons?i=express">
+<img height="40" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img height="40" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="40" alt="npm logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+
+<br>
+
+<img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img height="40" alt="dotnetcore logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<img height="40" alt="nuget logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg">
+
+<br>
+
+<img height="40" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height="40" alt="qt logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+
+<br>
+
+<img height="40" alt="github logo" src="https://skillicons.dev/icons?i=github">
+<img height="40" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div>
+</div>
 
 # 📊 GitHub Stats
 <table>
@@ -18,18 +50,15 @@
 
 ---
 
-# About ME
-- 🔭 I’m interested in unity and c#.    
+# About Me
+- 🔭 I’m interested in Programming and UI/UX. 
 
-- 🌱 I’m currently learning **Frontend Web development**
-
-- 👯 I’m looking to collaborate on **Game Jams**
-
-- 👨‍💻 Most of my projects are available at [github](https://github.com/cheaderthecoder)
+- 👨‍💻 Some of my projects are available at [github](https://github.com/cheaderthecoder)
 
 - 📫 You can reach me at [**itch.io**](https://cheader.itch.io), [**discord**](https://discord.com/users/853959508833730570)
 
-- ⚡ Fun fact: i made a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/).
+- ⚡ Fun fact: i made a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/), Called MangoBot
+
 
 - 🐧 Fun Quote:
 

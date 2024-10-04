@@ -26,14 +26,12 @@
 <img height="40" alt="express logo" src="https://skillicons.dev/icons?i=express">
 <img height="40" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img height="40" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img height="40" alt="npm logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 
 <br>
 
 <img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img height="40" alt="dotnetcore logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 <img height="40" alt="sql server logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-<img height="40" alt="nuget logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg">
 
 <br>
 

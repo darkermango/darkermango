@@ -11,8 +11,7 @@
 </p>
 
 # 💻 Tech Stack
-<div class="styles__Wrapper-sc-6dg9xf-1 doLdew">
-<div spacing="12" class="styles__Container-sc-1ih1sb6-0 eKJxnF">
+<div spacing="12">
 
 <img height="40" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img height="40" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -44,7 +43,6 @@
 <img height="40" alt="github logo" src="https://skillicons.dev/icons?i=github">
 <img height="40" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-</div>
 </div>
 
 # 📊 GitHub Stats

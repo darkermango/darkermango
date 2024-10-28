@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <a href="https://github.com/cheaderthecoder">
-        <img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&&row=3&column=3&theme=onedark&title=-Followers,-Reviews" alt="Trophys">
+        <img src="https://github-profile-trophy.vercel.app/?username=cheaderthecoder&&row=1&column=3&theme=onedark&title=-Followers,-Reviews,-Stars,-PullRequest,-Issues" alt="Trophys">
   </a>
 </p>
 

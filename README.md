@@ -1,8 +1,5 @@
+<h1 align="center">Hi There, I'm Cheaderthecoder👋</h1>
 
-<h1 align="center">Hi There 👋, I'm Cheaderthecoder</h1>
-<h3>
-
-</h3>
 
 <p align="center"> 
   <a href="https://github.com/cheaderthecoder">

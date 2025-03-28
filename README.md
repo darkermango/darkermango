@@ -91,12 +91,7 @@
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/cheaderthecoder)
 
-- 📫 You can reach me at [**itch.io**](https://cheader.itch.io), [**discord**](https://discord.com/users/853959508833730570)
+- 📫 You can reach me at [**itch.io**](https://cheader.itch.io) and [**discord**](https://discord.com/users/853959508833730570)
 
-- ⚡ Fun fact: i made a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/), Called MangoBot
-
-
-- 🐧 Fun Quote:
-
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ⚡ Fun fact: i made a discord bot inspiard by [TrustyBot](https://github.com/RyanFloresTT/TrustyBot/), Called MangoBot.
 

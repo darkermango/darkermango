@@ -56,13 +56,18 @@ I also like graphics design, cooking, playing chess, making games, joining game 
   <img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 
+
+<div>
+  <h3>Art 🖌️</h3>
+  <img height="40" alt="Procreate logo" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png">
+  <img height="40" alt="aseprite logo" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png">
+</div>
+
 <div>
   <h3>Other Tools ⭐</h3>
   <img height="40" alt="zen browser logo" src="https://raw.githubusercontent.com/zen-browser/branding/refs/heads/main/Official/PNG/Zen-3D-Dark.png">
-  <img height="40" alt="Procreate logo" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png">
-  <img height="40" alt="aseprite logo" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png">
-  <img height="40" alt="obsidian" src="https://github.com/user-attachments/assets/b5c6587d-6f47-42d2-a89d-2120d58e431f">
   <img height="40" alt="figma" src="https://github.com/user-attachments/assets/5e5cea68-678b-458d-93af-c3097845deac">
+  <img height="40" alt="obsidian" src="https://github.com/user-attachments/assets/b5c6587d-6f47-42d2-a89d-2120d58e431f">
 </div>
 
 </div>
@@ -72,7 +77,7 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=cheaderthecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheaderthecoder&theme=dark&hide_border=false" alt="cheaderthecoder" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darkermango&theme=dark&hide_border=false" alt="darkermango" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheaderthecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cheaderthecoder" /></td>
   </tr>
 </table>

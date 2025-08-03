@@ -76,8 +76,8 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 # 📊 GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cheaderthecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=darkermango&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darkermango&theme=dark&hide_border=false" alt="darkermango" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheaderthecoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cheaderthecoder" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkermango&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="darkermango" /></td>
   </tr>
 </table>

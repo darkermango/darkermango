@@ -1,6 +1,6 @@
 <h1 align="center">DarkerMango👋</h1>
 I am a general-purpose developer who likes to make stuff for fun :) <br/>
-I also like graphics design, cooking, playing chess, making games, joining game jams, drawing and more.
+I also like graphics design, cooking, playing chess, making games, joining game jams, drawing and many more niche skill!
 
 # 💻 Tech Stack
 <div spacing="12">

@@ -27,9 +27,9 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 
 <div>
   <h3>Game Dev 🛠️</h3>
-  <img height="40" alt="unity logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
   <img height="40" alt="dotnetcore logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height="40" alt="unity logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 </div>
 
 <div>

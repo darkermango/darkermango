@@ -26,8 +26,16 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 </div>
 
 <div>
+  <h3>Game Dev 🛠️</h3>
+  <img height="40" alt="unity logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+  <img height="40" alt="dotnetcore logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</div>
+
+<div>
 <h3>Scalable Desktop Apps 🖥️</h3>
   <img height="40" alt="dot net wpf" src="https://github.com/user-attachments/assets/6d3d79aa-4843-4417-aa93-e75a38e6e88d">
+  <img height="40" alt="AvaloniaUI" src="https://framerusercontent.com/images/ZdwwfU7VZvXEsyJiWGIdNEl3ZE.png">
   <img height="40" alt="XAML" src="https://github.com/user-attachments/assets/2ccd75f6-aa78-487c-ab68-782adb493267">
 <br>
 </div>
@@ -48,14 +56,6 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 <img height="40" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <br>
 </div>
-
-
-<div>
-  <h3>Game Dev 🛠️</h3>
-  <img height="40" alt="unity logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-  <img height="40" alt="csharp logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-
 
 <div>
   <h3>Art 🖌️</h3>

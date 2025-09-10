@@ -30,8 +30,8 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 <div>
   <h3>Game Dev 🛠️</h3>
   <img height="40" alt=".NET" src="https://i.imgur.com/7G9yKft.jpeg">
+  <img height="40" alt="Unity" src="https://i.imgur.com/iRdrjPH.png" style="background-color:white;"/>
   <img height="40" alt="C#" src="https://i.imgur.com/K6Tp02P.png">
-  <img height="40" alt="Unity" src="https://i.imgur.com/iRdrjPH.png"/>
 </div>
 
 <div>

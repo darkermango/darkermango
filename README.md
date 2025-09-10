@@ -35,6 +35,7 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 
 <div>
 <h3>Desktop 🖥️</h3>
+  <img height="40" alt=".NET" src="https://i.imgur.com/7G9yKft.jpeg">
   <img height="40" alt=".NET WPF" src="https://i.imgur.com/4jncIWi.png">
   <img height="40" alt="AvaloniaUI" src="https://i.imgur.com/k4tNopj.png">
 <br>
@@ -76,8 +77,8 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 # 📊 GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=darkermango&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=darkermango&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
     <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darkermango&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkermango&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="darkermango" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkermango&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="darkermango" /></td>
   </tr>
 </table>

@@ -1,4 +1,12 @@
 <h1 align="center">DarkerMango👋</h1>
+<p align="center" id="badges-section">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dark&label=Profile%20views&color=orange&style=for-the-badge"/>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/darkermango?style=for-the-badge&color=orange">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/darkermango?style=for-the-badge&color=orange">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/darkermango?style=for-the-badge&color=orange">
+
+</p>
+
 I am a general-purpose developer who likes to make stuff for fun :) <br/>
 I also like graphics design, cooking, playing chess, making games, joining game jams, drawing and many more niche skills!
 

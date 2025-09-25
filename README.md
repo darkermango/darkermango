@@ -1,6 +1,6 @@
 <h1 align="center">DarkerMango👋</h1>
 <p align="center" id="badges-section">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dark&label=Profile%20views&color=orange&style=for-the-badge"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dark&label=Profile%20views&color=orange&style=for-the-badge&abbreviated=true"/>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/darkermango?style=for-the-badge&color=orange">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/darkermango?style=for-the-badge&color=orange">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/darkermango?style=for-the-badge&color=orange">

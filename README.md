@@ -5,9 +5,6 @@
   <a href="https://github.com/darkermango?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/darkermango?style=for-the-badge&color=orange"></a>
   <a href="https://github.com/sponsors/darkermango"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/darkermango?style=for-the-badge&color=orange"></a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darkermango&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-</p>
-
 I am a general-purpose developer who likes to make stuff for fun :) <br/>
 I also like graphics design, cooking, playing chess, making games, joining game jams, writing, collecting knowledge, drawing and many more niche skills!
 

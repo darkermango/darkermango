@@ -58,7 +58,6 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 
 <div>
 <h3>Databases 🛢️</h3>
-<img height="40" alt="sql server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img height="40" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img height="40" alt="postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
@@ -71,13 +70,6 @@ I also like graphics design, cooking, playing chess, making games, joining game 
   <img height="40" alt="aseprite" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png">
   <img height="40" alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </div>
-
-<div>
-  <h3>Other Tools ⭐</h3>
-  <img height="40" alt="trello" src="https://i.imgur.com/PAsJSr3.png">
-  <img height="40" alt="obsidian" src="https://i.imgur.com/b8N833E.png">
-</div>
-
 </div>
 <br>
 

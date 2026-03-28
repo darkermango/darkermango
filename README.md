@@ -6,7 +6,7 @@
   <a href="https://github.com/sponsors/darkermango"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/darkermango?style=for-the-badge&color=orange"></a>
 
 I am a general-purpose developer who likes to make stuff for fun :) <br/>
-I also like graphics design, cooking, playing chess, making games, joining game jams, writing, collecting knowledge, drawing and many more niche skills!
+I also like graphics design, cooking, playing chess, making games, joining game jams, writing, drawing and many more niche skills!
 
 # 💻 Tech Stack
 <div spacing="12">
@@ -43,7 +43,6 @@ I also like graphics design, cooking, playing chess, making games, joining game 
 <div>
 <h3>Desktop 🖥️</h3>
   <img height="40" alt=".NET" src="https://i.imgur.com/7G9yKft.jpeg">
-  <img height="40" alt=".NET WPF" src="https://i.imgur.com/4jncIWi.png">
   <img height="40" alt="AvaloniaUI" src="https://i.imgur.com/k4tNopj.png">
 <br>
 </div>
